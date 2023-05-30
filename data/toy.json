@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Woody",
+    "price": 1230,
+    "labels": ["doll", "battery-powered", "outdoor"],
+    "createdAt": 1631031801011,
+    "inStock": false,
+    "imgUrl": "1.png"
+  },
+  {
+    "name": "Buzz Lightyear",
+    "price": 205,
+    "labels": ["doll", "outdoor", "battery-powered", "art"],
+    "createdAt": 1631031801011,
+    "inStock": false,
+    "imgUrl": "2.png"
+  },
+  {
+    "name": "Jessie",
+    "price": 199,
+    "labels": ["on-wheels", "doll", "outdoor"],
+    "createdAt": 1631031801011,
+    "inStock": false,
+    "imgUrl": "3.png"
+  },
+  {
+    "name": "Slinky Dog",
+    "price": 90,
+    "labels": ["on-wheels", "art", "baby"],
+    "createdAt": 1631031801011,
+    "inStock": false,
+    "imgUrl": "4.png"
+  },
+  {
+    "name": "Rex",
+    "price": 150,
+    "labels": ["doll", "battery-powered", "baby"],
+    "createdAt": 1631031801011,
+    "inStock": false,
+    "imgUrl": "5.png"
+  },
+  {
+    "name": "Alien",
+    "price": 255,
+    "inStock": true,
+    "labels": ["baby", "doll", "outdoor"],
+    "createdAt": 1684777593452,
+    "imgUrl": "6.png"
+  },
+  {
+    "name": "Mr. Potato Head",
+    "price": 465,
+    "inStock": true,
+    "labels": ["doll", "puzzle"],
+    "createdAt": 1684820738973,
+    "imgUrl": "7.png"
+  },
+  {
+    "name": "Bullseye",
+    "price": 55,
+    "inStock": true,
+    "labels": ["on-wheels", "art"],
+    "createdAt": 1685003629581,
+    "imgUrl": "8.png"
+  },
+  {
+    "name": "Hamm",
+    "price": 150,
+    "inStock": true,
+    "labels": ["doll", "box-game"],
+    "createdAt": 1685035472031,
+    "imgUrl": "9.png"
+  }
+]

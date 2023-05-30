@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3230a4d0.css",
+    "main.js": "/static/js/main.b8da4e24.js",
+    "static/js/787.ec74e78a.chunk.js": "/static/js/787.ec74e78a.chunk.js",
+    "static/media/toy-shop.png": "/static/media/toy-shop.b94ff900d7aad96de19d.png",
+    "static/media/home-background.jpg": "/static/media/home-background.9772ec5b52f5f9e8e485.jpg",
+    "static/media/logo_2.png": "/static/media/logo_2.dfc67df938cb60982d64.png",
+    "static/media/map.png": "/static/media/map.620128861918057454b5.png",
+    "static/media/chart.png": "/static/media/chart.5734ebc59ef638c08304.png",
+    "index.html": "/index.html",
+    "main.3230a4d0.css.map": "/static/css/main.3230a4d0.css.map",
+    "main.b8da4e24.js.map": "/static/js/main.b8da4e24.js.map",
+    "787.ec74e78a.chunk.js.map": "/static/js/787.ec74e78a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3230a4d0.css",
+    "static/js/main.b8da4e24.js"
+  ]
+}
